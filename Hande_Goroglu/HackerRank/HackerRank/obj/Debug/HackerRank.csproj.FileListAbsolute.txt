@@ -1,0 +1,8 @@
+C:\Dersler\HackerRank\HackerRank\HackerRank\bin\Debug\HackerRank.exe.config
+C:\Dersler\HackerRank\HackerRank\HackerRank\bin\Debug\HackerRank.exe
+C:\Dersler\HackerRank\HackerRank\HackerRank\bin\Debug\HackerRank.pdb
+C:\Dersler\HackerRank\HackerRank\HackerRank\obj\Debug\HackerRank.csproj.AssemblyReference.cache
+C:\Dersler\HackerRank\HackerRank\HackerRank\obj\Debug\HackerRank.csproj.SuggestedBindingRedirects.cache
+C:\Dersler\HackerRank\HackerRank\HackerRank\obj\Debug\HackerRank.csproj.CoreCompileInputs.cache
+C:\Dersler\HackerRank\HackerRank\HackerRank\obj\Debug\HackerRank.exe
+C:\Dersler\HackerRank\HackerRank\HackerRank\obj\Debug\HackerRank.pdb
